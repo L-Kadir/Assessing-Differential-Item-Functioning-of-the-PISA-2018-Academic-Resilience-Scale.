@@ -1,9 +1,8 @@
 # Assessing Differential Item Functioning of the PISA 2018 Academic Resilience Scale.
 
-Assessing Differential Item Functioning of the PISA 2018 Academic Resilience Scale.
-
 ## Abstract
-Differential Item Functioning is a common measurement issue that plagues measurement scales, rendering results from such scales biased as it yields an unfair advantage to a particular group. This study conducts DIF and DTF analyses on the PISA 2018 Academic Resilience Scale. Results indicate consistency between gender groups. 
+Differential Item Functioning is a common measurement issue that plagues measurement scales, rendering results from such scales biased as it yields an unfair advantage to a particular group. This study conducts DIF and DTF analyses on the PISA 2018 Academic Resilience Scale. Results indicate consistency between gender groups.
+
 --- 
 
 ### Introduction
